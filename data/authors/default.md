@@ -1,5 +1,5 @@
 ---
-name: cloutcoin protocol
+name: cloutcoin team
 avatar: /static/images/avatar.png
 occupation: hello :)
 company:
@@ -9,8 +9,8 @@ linkedin: #
 github: https://github.com/cloutprotocol
 ---
 
-## cloutcoin is creating a new financial protocol for a solution-based economy.
+## cloutcoin is an international team of artists & developers creating a new financial protocol for a solution-based economy.
 
-follow us on twitter : [https://twitter.com/cloutprotocol](https://twitter.com/cloutprotocol)
+Follow us on twitter : [https://twitter.com/cloutprotocol](https://twitter.com/cloutprotocol)
 
-email: [info@cloutcoin.org](mailto:info@cloutcoin.org)
+Send us an email: [info@cloutcoin.org](mailto:info@cloutcoin.org)

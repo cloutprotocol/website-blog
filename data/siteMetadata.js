@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'cloutcoin',
   author: 'cloutcoin protocol',
   headerTitle: 'cloutcoin',
-  description: 'Welcome to cloutcoin: A New Financial Protocol for a Solution-Based Economy',
+  description:
+    'Welcome to cloutcoin: We are creating a new financial protocol for a solution-based economy.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://cloutcoin.org',

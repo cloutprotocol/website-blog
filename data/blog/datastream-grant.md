@@ -10,9 +10,11 @@ layout: PostLayout
 
 ![](/static/images/metalicsnow.png)
 
-## cloutcoin has introduced a new grant proposal for the Ocean Protocol ecosystem. VOTE ON OCEANPEARL.IO [HERE](https://oceanpearl.io/projects/5E9eAD1AcB-datastream-by-cloutcoin)
+#### cloutcoin has introduced a new grant proposal for the Ocean Protocol ecosystem.
 
-# ⬇ PROPOSAL ⬇
+VOTE ON OCEANPEARL.IO [HERE](https://oceanpearl.io/projects/5E9eAD1AcB-datastream-by-cloutcoin)
+
+## ⬇ PROPOSAL ⬇
 
 **NAME**
 
