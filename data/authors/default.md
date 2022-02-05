@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: cloutcoin protocol
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: hello :)
+company:
+email: info@cloutcoin.org
+twitter: https://twitter.com/cloutprotocol
+linkedin: #
+github: https://github.com/cloutprotocol
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+## cloutcoin is creating a new financial protocol for a solution-based economy.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+follow us on twitter : [https://twitter.com/cloutprotocol](https://twitter.com/cloutprotocol)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+email: [info@cloutcoin.org](mailto:info@cloutcoin.org)

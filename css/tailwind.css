@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: made;
+  src: url('/fonts/MADE_Regular.otf');
+}
+
 .task-list-item::before {
   @apply hidden;
 }
@@ -11,7 +16,7 @@
 }
 
 .footnotes {
-  @apply pt-8 mt-12 border-t border-gray-200 dark:border-gray-700;
+  @apply mt-12 border-t border-gray-200 pt-8 dark:border-gray-700;
 }
 
 .csl-entry {
@@ -22,4 +27,15 @@
 input:-webkit-autofill,
 input:-webkit-autofill:focus {
   transition: background-color 600000s 0s, color 600000s 0s;
+}
+
+.logo {
+  width: 50px;
+  margin-top: 5px;
+  vertical-align: center;
+}
+
+h1 {
+  font-family: made;
+  font-size: 40px !important;
 }
