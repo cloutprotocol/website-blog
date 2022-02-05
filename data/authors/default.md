@@ -1,7 +1,7 @@
 ---
 name: cloutcoin team
 avatar: /static/images/avatar.png
-occupation: hello :)
+occupation: info@cloutcoin.org
 company:
 email: info@cloutcoin.org
 twitter: https://twitter.com/cloutprotocol
@@ -11,7 +11,11 @@ github: https://github.com/cloutprotocol
 
 ![](/static/images/metalicsnow.png)
 
-## The cloutcoin® organization is an international team of artists & developers dedicated to the creation of new financial softwares.
+## cloutcoin® is an international team of artists & developers creating new financial software to aid in the transition away from legacy web, social media, and finance.
+
+> For a solution-based Economy
+
+# Connect
 
 Follow us on twitter : [https://twitter.com/cloutprotocol](https://twitter.com/cloutprotocol)
 
