@@ -92,7 +92,7 @@ export default function Home({ posts }) {
         </div>
       )}
       {siteMetadata.newsletter.provider !== '' && (
-        <div className="flex hidden items-center justify-center pt-40">
+        <div className="flex items-center justify-center pt-40">
           <NewsletterForm />
         </div>
       )}

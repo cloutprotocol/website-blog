@@ -12,6 +12,6 @@ layout: PostLayout
 
 ## We'd love to hear from you.
 
-follow us on twitter : [https://twitter.com/cloutprotocol](https://twitter.com/cloutprotocol)
+Follow us on Twitter : [https://twitter.com/cloutprotocol](https://twitter.com/cloutprotocol)
 
-email: [info@cloutcoin.org](mailto:info@cloutcoin.org)
+Email us at: [info@cloutcoin.org](mailto:info@cloutcoin.org)

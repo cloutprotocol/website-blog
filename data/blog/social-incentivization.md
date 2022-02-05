@@ -2,7 +2,7 @@
 title: Markets, Institutions and Currencies - A New Method of Social Incentivization
 authors: ['vitalik']
 date: '2022-01-11'
-tags: ['writing', 'theory', 'philanthropy']
+tags: ['writing', 'theory', 'philanthropy', 'ethereum', 'doge', 'vitalik', 'btc']
 draft: false
 summary: Posted on Bitcoin Magazine by Vitalik Buterin, JAN 10, 2014.
 images: []
