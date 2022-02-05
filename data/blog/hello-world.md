@@ -10,7 +10,7 @@ layout: PostLayout
 
 # Hello :)
 
-## cloutcoin is creating a new financial protocol for a solution-based economy.
+## We'd love to hear from you.
 
 follow us on twitter : [https://twitter.com/cloutprotocol](https://twitter.com/cloutprotocol)
 
