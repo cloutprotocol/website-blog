@@ -9,7 +9,9 @@ linkedin: #
 github: https://github.com/cloutprotocol
 ---
 
-## cloutcoin is an international team of artists & developers creating a new financial protocol for a solution-based economy.
+![](/static/images/metalicsnow.png)
+
+## The cloutcoin® organization is an international team of artists & developers dedicated to the creation of new financial softwares.
 
 Follow us on twitter : [https://twitter.com/cloutprotocol](https://twitter.com/cloutprotocol)
 
