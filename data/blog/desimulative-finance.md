@@ -1,7 +1,7 @@
 ---
 title: De-Simulative Finance
 authors: ['jude']
-date: '2022-01-12'
+date: '2022-01-05'
 tags: ['writing', 'theory', 'litepaper']
 draft: false
 summary: DeSim brief version 1.0
